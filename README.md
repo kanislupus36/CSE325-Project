@@ -1,4 +1,4 @@
 # CSE325-Project
 Team members:
-Kadin Adams
+Kadin Adams,
 Jarom Zozaya?
