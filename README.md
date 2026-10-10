@@ -1,3 +1,8 @@
+# CSE325-Project
+Team members:
+Kadin Adams
+
+
 # Expense Tracker
 
 ## Overview
